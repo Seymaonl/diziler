@@ -35,6 +35,7 @@ public class ders5 {
 			b=Array.equals(intArray, filledIntArray);
 			System.out.printf("intArray %s filledIntArray%n",
 					(b ?"==":"!="));
+			System.out.println("gorkos");
 					
 			
 			
